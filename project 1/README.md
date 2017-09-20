@@ -1,6 +1,6 @@
 # My First README.md
 ## Jordyn Balfourd
-**Was it a difficult process?** Yes, a pain in my butt.
+**Was it a difficult process?** Yes, a pain in my butt. 
 
 *I wanted to cry but pulled through*
 1. I learned a lot during this process. It was hard to understand, with myself not being tech savey with Atom but finally with some help I finally got it up and running.
