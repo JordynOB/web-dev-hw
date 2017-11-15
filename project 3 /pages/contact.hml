@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body
+{background-color: #b366ff;}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: harrington}
+
+h3 {
+    font-family: arial;
+    font-size: 15px;
+    text-align: center}
+
+p {font-family: arial;
+    font-size: 15px;
+    text-align: center}
+
+</style>
+</head>
+<body>
+<h1>Contact</h1>
+
+<p>Jordyn Balfourd<br>
+jordynb7@gmail.com </p>
+
+</body>
+</html>

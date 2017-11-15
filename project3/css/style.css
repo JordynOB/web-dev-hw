@@ -1,0 +1,25 @@
+body {
+  background-color: #c6538c;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: harrington}
+
+h3 {
+    font-family: arial;
+    font-size: 15px;
+    text-align: center}
+
+p {font-family: arial;
+    font-size: 15px;
+    text-align: center}
+
+.movie-quote1 {
+  font-family: arial;
+  color: purple;
+  border: 1px dotted green;
+
+
+}
