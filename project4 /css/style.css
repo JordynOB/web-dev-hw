@@ -1,0 +1,17 @@
+body {
+  background-color: #4d88ff;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: acme}
+
+h3 {
+    font-family: arial;
+    font-size: 15px;
+    text-align: center}
+
+p {font-family: arial;
+    font-size: 15px;
+    text-align: center}
